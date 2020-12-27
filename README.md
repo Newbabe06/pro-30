@@ -1,2 +1,2 @@
-# pro-30
-creating pro 30
+# p5.play-boilerplate
+Boiler plate for p5.play
